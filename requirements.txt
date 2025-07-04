@@ -2,5 +2,4 @@ streamlit
 pandas
 openpyxl
 altair
-pyplot
-matplotlib.pyplot
+matplotlib
