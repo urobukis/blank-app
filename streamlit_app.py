@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
-import plotly.express as px
+#import plotly.express as px
 file_path="./data/data.xlsx"
 ex2=pd.read_excel(file_path)
 
